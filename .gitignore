@@ -1,2 +1,6 @@
 *.ipynb_checkpoints*
+<<<<<<< HEAD
 *.DS_Store*
+=======
+*.DS_Store*
+>>>>>>> 5436bb192cd5322d96c5bdf3759188d794562819
