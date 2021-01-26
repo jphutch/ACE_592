@@ -1,4 +1,4 @@
-name: ace592_test2
+name: ace592
 channels:
   - conda-forge
   - defaults
