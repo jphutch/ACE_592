@@ -27,3 +27,5 @@ dependencies:
   - dask=2020.12.0
   - dask-core=2020.12.0
   - econtools=0.3.2
+  - plotly=4.12.0
+  - multiprocess=0.70.11.1 
